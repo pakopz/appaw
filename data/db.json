@@ -1,0 +1,35 @@
+{
+    "empleados": [
+      {
+        "id": 1,
+        "nombre": "Ana García",
+        "puesto": "Gerente de Ventas",
+        "salario": 60000
+      },
+      {
+        "id": 2,
+        "nombre": "Carlos López",
+        "puesto": "Desarrollador Web",
+        "salario": 55000
+      },
+      {
+        "id": 3,
+        "nombre": "María Rodríguez",
+        "puesto": "Analista de Datos",
+        "salario": 48000
+      },
+      {
+        "id": 4,
+        "nombre": "Juan Rodríguez",
+        "puesto": "Desarrollador Web",
+        "salario": 55000
+      },
+      {
+        "id": 5,
+        "nombre": "Alejandro Martinez",
+        "puesto": "Analista de Datos",
+        "salario": 48000
+      }
+    ]
+  }
+  
